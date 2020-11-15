@@ -1,0 +1,5 @@
+év = input('mikor születtél? ')
+vezetéknév = input('Mi a vezetkneved? ')
+keresztnév = input('Mi a keresztneved? ')
+print('a neved ', vezetéknév, ' ', keresztnév, '.')
+print('te ', év, 'ben vagy ban születtél')
